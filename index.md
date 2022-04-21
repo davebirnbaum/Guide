@@ -10,7 +10,7 @@ videoWidth: 1600
 videoHeight: 840
 ---
 
-## We are helping make [bitcoin](https://bitcoin.org) more intuitive and accessible.
+## We are helping make [bitcoin](https://bitcoin.org) more amazing and cool.
 
 
 As bitcoin’s popularity continues to rise, it is essential that everyone be able to participate in this new economy regardless of technical expertise or geography. That can only happen if creators everywhere have the resources and community necessary to foster better bitcoin experiences.
